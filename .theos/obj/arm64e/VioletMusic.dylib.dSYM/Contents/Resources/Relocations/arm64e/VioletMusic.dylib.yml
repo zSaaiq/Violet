@@ -1,57 +1,57 @@
 ---
 triple:          'arm64e-apple-darwin'
-binary-path:     '/Users/kevinmuller/Desktop/Violet/.theos/obj/arm64e/VioletMusic.dylib'
+binary-path:     '/Users/kevinmuller/Desktop/JB_Tweaks/Violet/.theos/obj/arm64e/VioletMusic.dylib'
 relocations:
   - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __logosLocalCtor_0a0ddd70, symObjAddr: 0x0, symBinAddr: 0x52A0, symSize: 0x784 }
-  - { offsetInCU: 0x37, offset: 0x37, size: 0x8, addend: 0x0, symName: _preferences, symObjAddr: 0x12280, symBinAddr: 0xC1C0, symSize: 0x0 }
-  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: _enabled, symObjAddr: 0x12288, symBinAddr: 0xC1C8, symSize: 0x0 }
-  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _currentArtwork, symObjAddr: 0x12290, symBinAddr: 0xC1D0, symSize: 0x0 }
-  - { offsetInCU: 0xBEA, offset: 0xBEA, size: 0x8, addend: 0x0, symName: _musicArtworkBackgroundImageView, symObjAddr: 0x12298, symBinAddr: 0xC1D8, symSize: 0x0 }
-  - { offsetInCU: 0x17DF, offset: 0x17DF, size: 0x8, addend: 0x0, symName: _musicBlur, symObjAddr: 0x122A0, symBinAddr: 0xC1E0, symSize: 0x0 }
-  - { offsetInCU: 0x1819, offset: 0x1819, size: 0x8, addend: 0x0, symName: _musicBlurView, symObjAddr: 0x122A8, symBinAddr: 0xC1E8, symSize: 0x0 }
-  - { offsetInCU: 0x1862, offset: 0x1862, size: 0x8, addend: 0x0, symName: _musicDimView, symObjAddr: 0x122B0, symBinAddr: 0xC1F0, symSize: 0x0 }
-  - { offsetInCU: 0x1877, offset: 0x1877, size: 0x8, addend: 0x0, symName: _theTransportView, symObjAddr: 0x122B8, symBinAddr: 0xC1F8, symSize: 0x0 }
-  - { offsetInCU: 0x188C, offset: 0x188C, size: 0x8, addend: 0x0, symName: _queueIsVisible, symObjAddr: 0x122C0, symBinAddr: 0xC200, symSize: 0x0 }
-  - { offsetInCU: 0x18A1, offset: 0x18A1, size: 0x8, addend: 0x0, symName: _musicArtworkBackgroundSwitch, symObjAddr: 0x122C1, symBinAddr: 0xC201, symSize: 0x0 }
+  - { offsetInCU: 0x37, offset: 0x37, size: 0x8, addend: 0x0, symName: _preferences, symObjAddr: 0x122A0, symBinAddr: 0xC1C0, symSize: 0x0 }
+  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: _enabled, symObjAddr: 0x122A8, symBinAddr: 0xC1C8, symSize: 0x0 }
+  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _currentArtwork, symObjAddr: 0x122B0, symBinAddr: 0xC1D0, symSize: 0x0 }
+  - { offsetInCU: 0xBEA, offset: 0xBEA, size: 0x8, addend: 0x0, symName: _musicArtworkBackgroundImageView, symObjAddr: 0x122B8, symBinAddr: 0xC1D8, symSize: 0x0 }
+  - { offsetInCU: 0x17DF, offset: 0x17DF, size: 0x8, addend: 0x0, symName: _musicBlur, symObjAddr: 0x122C0, symBinAddr: 0xC1E0, symSize: 0x0 }
+  - { offsetInCU: 0x1819, offset: 0x1819, size: 0x8, addend: 0x0, symName: _musicBlurView, symObjAddr: 0x122C8, symBinAddr: 0xC1E8, symSize: 0x0 }
+  - { offsetInCU: 0x1862, offset: 0x1862, size: 0x8, addend: 0x0, symName: _musicDimView, symObjAddr: 0x122D0, symBinAddr: 0xC1F0, symSize: 0x0 }
+  - { offsetInCU: 0x1877, offset: 0x1877, size: 0x8, addend: 0x0, symName: _theTransportView, symObjAddr: 0x122D8, symBinAddr: 0xC1F8, symSize: 0x0 }
+  - { offsetInCU: 0x188C, offset: 0x188C, size: 0x8, addend: 0x0, symName: _queueIsVisible, symObjAddr: 0x122E0, symBinAddr: 0xC200, symSize: 0x0 }
+  - { offsetInCU: 0x18A1, offset: 0x18A1, size: 0x8, addend: 0x0, symName: _musicArtworkBackgroundSwitch, symObjAddr: 0x122E1, symBinAddr: 0xC201, symSize: 0x0 }
   - { offsetInCU: 0x18B6, offset: 0x18B6, size: 0x8, addend: 0x0, symName: _musicArtworkBlurMode, symObjAddr: 0x2E50, symBinAddr: 0xC1A0, symSize: 0x0 }
   - { offsetInCU: 0x18CB, offset: 0x18CB, size: 0x8, addend: 0x0, symName: _musicArtworkBlurAmountValue, symObjAddr: 0x2E58, symBinAddr: 0xC1A8, symSize: 0x0 }
   - { offsetInCU: 0x18E0, offset: 0x18E0, size: 0x8, addend: 0x0, symName: _musicArtworkOpacityValue, symObjAddr: 0x2E60, symBinAddr: 0xC1B0, symSize: 0x0 }
   - { offsetInCU: 0x18F5, offset: 0x18F5, size: 0x8, addend: 0x0, symName: _musicArtworkDimValue, symObjAddr: 0x2E68, symBinAddr: 0xC1B8, symSize: 0x0 }
-  - { offsetInCU: 0x190A, offset: 0x190A, size: 0x8, addend: 0x0, symName: _hideGrabberViewSwitch, symObjAddr: 0x122C2, symBinAddr: 0xC202, symSize: 0x0 }
-  - { offsetInCU: 0x191F, offset: 0x191F, size: 0x8, addend: 0x0, symName: _hideArtworkViewSwitch, symObjAddr: 0x122C3, symBinAddr: 0xC203, symSize: 0x0 }
-  - { offsetInCU: 0x1934, offset: 0x1934, size: 0x8, addend: 0x0, symName: _hideTimeControlSwitch, symObjAddr: 0x122C4, symBinAddr: 0xC204, symSize: 0x0 }
-  - { offsetInCU: 0x1949, offset: 0x1949, size: 0x8, addend: 0x0, symName: _hideKnobViewSwitch, symObjAddr: 0x122C5, symBinAddr: 0xC205, symSize: 0x0 }
-  - { offsetInCU: 0x195E, offset: 0x195E, size: 0x8, addend: 0x0, symName: _hideElapsedTimeLabelSwitch, symObjAddr: 0x122C6, symBinAddr: 0xC206, symSize: 0x0 }
-  - { offsetInCU: 0x1973, offset: 0x1973, size: 0x8, addend: 0x0, symName: _hideRemainingTimeLabelSwitch, symObjAddr: 0x122C7, symBinAddr: 0xC207, symSize: 0x0 }
-  - { offsetInCU: 0x1988, offset: 0x1988, size: 0x8, addend: 0x0, symName: _hideContextualActionsButtonSwitch, symObjAddr: 0x122C8, symBinAddr: 0xC208, symSize: 0x0 }
-  - { offsetInCU: 0x199D, offset: 0x199D, size: 0x8, addend: 0x0, symName: _hideVolumeSliderSwitch, symObjAddr: 0x122C9, symBinAddr: 0xC209, symSize: 0x0 }
-  - { offsetInCU: 0x19B2, offset: 0x19B2, size: 0x8, addend: 0x0, symName: _hideMinImageSwitch, symObjAddr: 0x122CA, symBinAddr: 0xC20A, symSize: 0x0 }
-  - { offsetInCU: 0x19C7, offset: 0x19C7, size: 0x8, addend: 0x0, symName: _hideMaxImageSwitch, symObjAddr: 0x122CB, symBinAddr: 0xC20B, symSize: 0x0 }
-  - { offsetInCU: 0x19DC, offset: 0x19DC, size: 0x8, addend: 0x0, symName: _hideTitleLabelSwitch, symObjAddr: 0x122CC, symBinAddr: 0xC20C, symSize: 0x0 }
-  - { offsetInCU: 0x19F1, offset: 0x19F1, size: 0x8, addend: 0x0, symName: _hideSubtitleButtonSwitch, symObjAddr: 0x122CD, symBinAddr: 0xC20D, symSize: 0x0 }
-  - { offsetInCU: 0x1A06, offset: 0x1A06, size: 0x8, addend: 0x0, symName: _hideLyricsButtonSwitch, symObjAddr: 0x122CE, symBinAddr: 0xC20E, symSize: 0x0 }
-  - { offsetInCU: 0x1A1B, offset: 0x1A1B, size: 0x8, addend: 0x0, symName: _hideRouteButtonSwitch, symObjAddr: 0x122CF, symBinAddr: 0xC20F, symSize: 0x0 }
-  - { offsetInCU: 0x1A30, offset: 0x1A30, size: 0x8, addend: 0x0, symName: _hideRouteLabelSwitch, symObjAddr: 0x122D0, symBinAddr: 0xC210, symSize: 0x0 }
-  - { offsetInCU: 0x1A45, offset: 0x1A45, size: 0x8, addend: 0x0, symName: _hideQueueButtonSwitch, symObjAddr: 0x122D1, symBinAddr: 0xC211, symSize: 0x0 }
-  - { offsetInCU: 0x1A5A, offset: 0x1A5A, size: 0x8, addend: 0x0, symName: _hideQueueModeBadgeSwitch, symObjAddr: 0x122D2, symBinAddr: 0xC212, symSize: 0x0 }
-  - { offsetInCU: 0x1A6F, offset: 0x1A6F, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x1F56, offset: 0x1F56, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x1F83, offset: 0x1F83, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x1F9A, offset: 0x1F9A, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x1FD7, offset: 0x1FD7, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x2009, offset: 0x2009, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x2036, offset: 0x2036, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x204D, offset: 0x204D, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x2075, offset: 0x2075, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x208C, offset: 0x208C, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x20A3, offset: 0x20A3, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x24A9, offset: 0x24A9, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x24C1, offset: 0x24C1, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x24D9, offset: 0x24D9, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x24F1, offset: 0x24F1, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x2509, offset: 0x2509, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x2521, offset: 0x2521, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
-  - { offsetInCU: 0x253A, offset: 0x253A, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122D8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x190A, offset: 0x190A, size: 0x8, addend: 0x0, symName: _hideGrabberViewSwitch, symObjAddr: 0x122E2, symBinAddr: 0xC202, symSize: 0x0 }
+  - { offsetInCU: 0x191F, offset: 0x191F, size: 0x8, addend: 0x0, symName: _hideArtworkViewSwitch, symObjAddr: 0x122E3, symBinAddr: 0xC203, symSize: 0x0 }
+  - { offsetInCU: 0x1934, offset: 0x1934, size: 0x8, addend: 0x0, symName: _hideTimeControlSwitch, symObjAddr: 0x122E4, symBinAddr: 0xC204, symSize: 0x0 }
+  - { offsetInCU: 0x1949, offset: 0x1949, size: 0x8, addend: 0x0, symName: _hideKnobViewSwitch, symObjAddr: 0x122E5, symBinAddr: 0xC205, symSize: 0x0 }
+  - { offsetInCU: 0x195E, offset: 0x195E, size: 0x8, addend: 0x0, symName: _hideElapsedTimeLabelSwitch, symObjAddr: 0x122E6, symBinAddr: 0xC206, symSize: 0x0 }
+  - { offsetInCU: 0x1973, offset: 0x1973, size: 0x8, addend: 0x0, symName: _hideRemainingTimeLabelSwitch, symObjAddr: 0x122E7, symBinAddr: 0xC207, symSize: 0x0 }
+  - { offsetInCU: 0x1988, offset: 0x1988, size: 0x8, addend: 0x0, symName: _hideContextualActionsButtonSwitch, symObjAddr: 0x122E8, symBinAddr: 0xC208, symSize: 0x0 }
+  - { offsetInCU: 0x199D, offset: 0x199D, size: 0x8, addend: 0x0, symName: _hideVolumeSliderSwitch, symObjAddr: 0x122E9, symBinAddr: 0xC209, symSize: 0x0 }
+  - { offsetInCU: 0x19B2, offset: 0x19B2, size: 0x8, addend: 0x0, symName: _hideMinImageSwitch, symObjAddr: 0x122EA, symBinAddr: 0xC20A, symSize: 0x0 }
+  - { offsetInCU: 0x19C7, offset: 0x19C7, size: 0x8, addend: 0x0, symName: _hideMaxImageSwitch, symObjAddr: 0x122EB, symBinAddr: 0xC20B, symSize: 0x0 }
+  - { offsetInCU: 0x19DC, offset: 0x19DC, size: 0x8, addend: 0x0, symName: _hideTitleLabelSwitch, symObjAddr: 0x122EC, symBinAddr: 0xC20C, symSize: 0x0 }
+  - { offsetInCU: 0x19F1, offset: 0x19F1, size: 0x8, addend: 0x0, symName: _hideSubtitleButtonSwitch, symObjAddr: 0x122ED, symBinAddr: 0xC20D, symSize: 0x0 }
+  - { offsetInCU: 0x1A06, offset: 0x1A06, size: 0x8, addend: 0x0, symName: _hideLyricsButtonSwitch, symObjAddr: 0x122EE, symBinAddr: 0xC20E, symSize: 0x0 }
+  - { offsetInCU: 0x1A1B, offset: 0x1A1B, size: 0x8, addend: 0x0, symName: _hideRouteButtonSwitch, symObjAddr: 0x122EF, symBinAddr: 0xC20F, symSize: 0x0 }
+  - { offsetInCU: 0x1A30, offset: 0x1A30, size: 0x8, addend: 0x0, symName: _hideRouteLabelSwitch, symObjAddr: 0x122F0, symBinAddr: 0xC210, symSize: 0x0 }
+  - { offsetInCU: 0x1A45, offset: 0x1A45, size: 0x8, addend: 0x0, symName: _hideQueueButtonSwitch, symObjAddr: 0x122F1, symBinAddr: 0xC211, symSize: 0x0 }
+  - { offsetInCU: 0x1A5A, offset: 0x1A5A, size: 0x8, addend: 0x0, symName: _hideQueueModeBadgeSwitch, symObjAddr: 0x122F2, symBinAddr: 0xC212, symSize: 0x0 }
+  - { offsetInCU: 0x1A6F, offset: 0x1A6F, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x1F56, offset: 0x1F56, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x1F83, offset: 0x1F83, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x1F9A, offset: 0x1F9A, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x1FD7, offset: 0x1FD7, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x2009, offset: 0x2009, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x2036, offset: 0x2036, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x204D, offset: 0x204D, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x2075, offset: 0x2075, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x208C, offset: 0x208C, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x20A3, offset: 0x20A3, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x24A9, offset: 0x24A9, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x24C1, offset: 0x24C1, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x24D9, offset: 0x24D9, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x24F1, offset: 0x24F1, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x2509, offset: 0x2509, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x2521, offset: 0x2521, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
+  - { offsetInCU: 0x253A, offset: 0x253A, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0x122F8, symBinAddr: 0xC218, symSize: 0x0 }
   - { offsetInCU: 0x28A8, offset: 0x28A8, size: 0x8, addend: 0x0, symName: __logosLocalCtor_0a0ddd70, symObjAddr: 0x0, symBinAddr: 0x52A0, symSize: 0x784 }
   - { offsetInCU: 0x2C7E, offset: 0x2C7E, size: 0x8, addend: 0x0, symName: '__logos_method$VioletMusic13$MusicNowPlayingControlsViewController$setArtwork', symObjAddr: 0x784, symBinAddr: 0x5A24, symSize: 0x60 }
   - { offsetInCU: 0x2CC9, offset: 0x2CC9, size: 0x8, addend: 0x0, symName: '__logos_method$VioletMusic13$MusicNowPlayingControlsViewController$viewDidLoad', symObjAddr: 0x7E4, symBinAddr: 0x5A84, symSize: 0x80C }

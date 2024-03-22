@@ -1,74 +1,74 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/kevinmuller/Desktop/Violet/.theos/obj/arm64/VioletSpringBoard.dylib'
+binary-path:     '/Users/kevinmuller/Desktop/JB_Tweaks/Violet/.theos/obj/arm64/VioletSpringBoard.dylib'
 relocations:
   - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: __logosLocalCtor_d9030d1b, symObjAddr: 0x0, symBinAddr: 0x4CC0, symSize: 0x7D8 }
-  - { offsetInCU: 0x37, offset: 0x37, size: 0x8, addend: 0x0, symName: _preferences, symObjAddr: 0xEDD0, symBinAddr: 0xC2A8, symSize: 0x0 }
-  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: _enabled, symObjAddr: 0xEDD8, symBinAddr: 0xC2B0, symSize: 0x0 }
-  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _currentArtwork, symObjAddr: 0xEDE0, symBinAddr: 0xC2B8, symSize: 0x0 }
-  - { offsetInCU: 0xBEA, offset: 0xBEA, size: 0x8, addend: 0x0, symName: _lockscreenArtworkBackgroundSwitch, symObjAddr: 0xEDE8, symBinAddr: 0xC2C0, symSize: 0x0 }
+  - { offsetInCU: 0x37, offset: 0x37, size: 0x8, addend: 0x0, symName: _preferences, symObjAddr: 0xEDF8, symBinAddr: 0xC2A8, symSize: 0x0 }
+  - { offsetInCU: 0x109, offset: 0x109, size: 0x8, addend: 0x0, symName: _enabled, symObjAddr: 0xEE00, symBinAddr: 0xC2B0, symSize: 0x0 }
+  - { offsetInCU: 0x130, offset: 0x130, size: 0x8, addend: 0x0, symName: _currentArtwork, symObjAddr: 0xEE08, symBinAddr: 0xC2B8, symSize: 0x0 }
+  - { offsetInCU: 0xBEA, offset: 0xBEA, size: 0x8, addend: 0x0, symName: _lockscreenArtworkBackgroundSwitch, symObjAddr: 0xEE10, symBinAddr: 0xC2C0, symSize: 0x0 }
   - { offsetInCU: 0xBFF, offset: 0xBFF, size: 0x8, addend: 0x0, symName: _lockscreenArtworkBlurMode, symObjAddr: 0x3348, symBinAddr: 0xC1F8, symSize: 0x0 }
   - { offsetInCU: 0xC14, offset: 0xC14, size: 0x8, addend: 0x0, symName: _lockscreenArtworkBlurAmountValue, symObjAddr: 0x3350, symBinAddr: 0xC200, symSize: 0x0 }
   - { offsetInCU: 0xC29, offset: 0xC29, size: 0x8, addend: 0x0, symName: _lockscreenArtworkOpacityValue, symObjAddr: 0x3358, symBinAddr: 0xC208, symSize: 0x0 }
   - { offsetInCU: 0xC3E, offset: 0xC3E, size: 0x8, addend: 0x0, symName: _lockscreenArtworkDimValue, symObjAddr: 0x3360, symBinAddr: 0xC210, symSize: 0x0 }
-  - { offsetInCU: 0xC53, offset: 0xC53, size: 0x8, addend: 0x0, symName: _lockscreenArtworkBackgroundTransitionSwitch, symObjAddr: 0xEDE9, symBinAddr: 0xC2C1, symSize: 0x0 }
-  - { offsetInCU: 0xC68, offset: 0xC68, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkBackgroundSwitch, symObjAddr: 0xEDEA, symBinAddr: 0xC2C2, symSize: 0x0 }
+  - { offsetInCU: 0xC53, offset: 0xC53, size: 0x8, addend: 0x0, symName: _lockscreenArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE11, symBinAddr: 0xC2C1, symSize: 0x0 }
+  - { offsetInCU: 0xC68, offset: 0xC68, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkBackgroundSwitch, symObjAddr: 0xEE12, symBinAddr: 0xC2C2, symSize: 0x0 }
   - { offsetInCU: 0xC7D, offset: 0xC7D, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkBlurMode, symObjAddr: 0x3368, symBinAddr: 0xC218, symSize: 0x0 }
   - { offsetInCU: 0xC92, offset: 0xC92, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkBlurAmountValue, symObjAddr: 0x3370, symBinAddr: 0xC220, symSize: 0x0 }
   - { offsetInCU: 0xCA7, offset: 0xCA7, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkOpacityValue, symObjAddr: 0x3378, symBinAddr: 0xC228, symSize: 0x0 }
   - { offsetInCU: 0xCBC, offset: 0xCBC, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkDimValue, symObjAddr: 0x3380, symBinAddr: 0xC230, symSize: 0x0 }
-  - { offsetInCU: 0xCD1, offset: 0xCD1, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkBackgroundTransitionSwitch, symObjAddr: 0xEDEB, symBinAddr: 0xC2C3, symSize: 0x0 }
+  - { offsetInCU: 0xCD1, offset: 0xCD1, size: 0x8, addend: 0x0, symName: _lockscreenPlayerArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE13, symBinAddr: 0xC2C3, symSize: 0x0 }
   - { offsetInCU: 0xCE6, offset: 0xCE6, size: 0x8, addend: 0x0, symName: _lockscreenPlayerStyleOverrideValue, symObjAddr: 0x3388, symBinAddr: 0xC238, symSize: 0x0 }
-  - { offsetInCU: 0xCFB, offset: 0xCFB, size: 0x8, addend: 0x0, symName: _lockScreenArtworkBackgroundImageView, symObjAddr: 0xEDF0, symBinAddr: 0xC2C8, symSize: 0x0 }
-  - { offsetInCU: 0x18F0, offset: 0x18F0, size: 0x8, addend: 0x0, symName: _lockScreenBlurView, symObjAddr: 0xEDF8, symBinAddr: 0xC2D0, symSize: 0x0 }
-  - { offsetInCU: 0x1949, offset: 0x1949, size: 0x8, addend: 0x0, symName: _lockScreenBlur, symObjAddr: 0xEE00, symBinAddr: 0xC2D8, symSize: 0x0 }
-  - { offsetInCU: 0x1973, offset: 0x1973, size: 0x8, addend: 0x0, symName: _lockScreenDimView, symObjAddr: 0xEE08, symBinAddr: 0xC2E0, symSize: 0x0 }
-  - { offsetInCU: 0x1988, offset: 0x1988, size: 0x8, addend: 0x0, symName: _lockScreenPlayerArtworkBackgroundImageView, symObjAddr: 0xEE10, symBinAddr: 0xC2E8, symSize: 0x0 }
-  - { offsetInCU: 0x199D, offset: 0x199D, size: 0x8, addend: 0x0, symName: _lockScreenPlayerBlurView, symObjAddr: 0xEE18, symBinAddr: 0xC2F0, symSize: 0x0 }
-  - { offsetInCU: 0x19B2, offset: 0x19B2, size: 0x8, addend: 0x0, symName: _lockScreenPlayerBlur, symObjAddr: 0xEE20, symBinAddr: 0xC2F8, symSize: 0x0 }
-  - { offsetInCU: 0x19C7, offset: 0x19C7, size: 0x8, addend: 0x0, symName: _lockScreenPlayerDimView, symObjAddr: 0xEE28, symBinAddr: 0xC300, symSize: 0x0 }
-  - { offsetInCU: 0x19DC, offset: 0x19DC, size: 0x8, addend: 0x0, symName: _homescreenArtworkBackgroundSwitch, symObjAddr: 0xEE30, symBinAddr: 0xC308, symSize: 0x0 }
+  - { offsetInCU: 0xCFB, offset: 0xCFB, size: 0x8, addend: 0x0, symName: _lockScreenArtworkBackgroundImageView, symObjAddr: 0xEE18, symBinAddr: 0xC2C8, symSize: 0x0 }
+  - { offsetInCU: 0x18F0, offset: 0x18F0, size: 0x8, addend: 0x0, symName: _lockScreenBlurView, symObjAddr: 0xEE20, symBinAddr: 0xC2D0, symSize: 0x0 }
+  - { offsetInCU: 0x1949, offset: 0x1949, size: 0x8, addend: 0x0, symName: _lockScreenBlur, symObjAddr: 0xEE28, symBinAddr: 0xC2D8, symSize: 0x0 }
+  - { offsetInCU: 0x1973, offset: 0x1973, size: 0x8, addend: 0x0, symName: _lockScreenDimView, symObjAddr: 0xEE30, symBinAddr: 0xC2E0, symSize: 0x0 }
+  - { offsetInCU: 0x1988, offset: 0x1988, size: 0x8, addend: 0x0, symName: _lockScreenPlayerArtworkBackgroundImageView, symObjAddr: 0xEE38, symBinAddr: 0xC2E8, symSize: 0x0 }
+  - { offsetInCU: 0x199D, offset: 0x199D, size: 0x8, addend: 0x0, symName: _lockScreenPlayerBlurView, symObjAddr: 0xEE40, symBinAddr: 0xC2F0, symSize: 0x0 }
+  - { offsetInCU: 0x19B2, offset: 0x19B2, size: 0x8, addend: 0x0, symName: _lockScreenPlayerBlur, symObjAddr: 0xEE48, symBinAddr: 0xC2F8, symSize: 0x0 }
+  - { offsetInCU: 0x19C7, offset: 0x19C7, size: 0x8, addend: 0x0, symName: _lockScreenPlayerDimView, symObjAddr: 0xEE50, symBinAddr: 0xC300, symSize: 0x0 }
+  - { offsetInCU: 0x19DC, offset: 0x19DC, size: 0x8, addend: 0x0, symName: _homescreenArtworkBackgroundSwitch, symObjAddr: 0xEE58, symBinAddr: 0xC308, symSize: 0x0 }
   - { offsetInCU: 0x19F1, offset: 0x19F1, size: 0x8, addend: 0x0, symName: _homescreenArtworkBlurMode, symObjAddr: 0x3390, symBinAddr: 0xC240, symSize: 0x0 }
   - { offsetInCU: 0x1A06, offset: 0x1A06, size: 0x8, addend: 0x0, symName: _homescreenArtworkBlurAmountValue, symObjAddr: 0x3398, symBinAddr: 0xC248, symSize: 0x0 }
   - { offsetInCU: 0x1A1B, offset: 0x1A1B, size: 0x8, addend: 0x0, symName: _homescreenArtworkOpacityValue, symObjAddr: 0x33A0, symBinAddr: 0xC250, symSize: 0x0 }
   - { offsetInCU: 0x1A30, offset: 0x1A30, size: 0x8, addend: 0x0, symName: _homescreenArtworkDimValue, symObjAddr: 0x33A8, symBinAddr: 0xC258, symSize: 0x0 }
-  - { offsetInCU: 0x1A45, offset: 0x1A45, size: 0x8, addend: 0x0, symName: _homescreenArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE31, symBinAddr: 0xC309, symSize: 0x0 }
+  - { offsetInCU: 0x1A45, offset: 0x1A45, size: 0x8, addend: 0x0, symName: _homescreenArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE59, symBinAddr: 0xC309, symSize: 0x0 }
   - { offsetInCU: 0x1A5A, offset: 0x1A5A, size: 0x8, addend: 0x0, symName: _zoomedViewSwitch, symObjAddr: 0x33B0, symBinAddr: 0xC260, symSize: 0x0 }
-  - { offsetInCU: 0x1A6F, offset: 0x1A6F, size: 0x8, addend: 0x0, symName: _homeScreenArtworkBackgroundImageView, symObjAddr: 0xEE38, symBinAddr: 0xC310, symSize: 0x0 }
-  - { offsetInCU: 0x1A84, offset: 0x1A84, size: 0x8, addend: 0x0, symName: _homeScreenBlurView, symObjAddr: 0xEE40, symBinAddr: 0xC318, symSize: 0x0 }
-  - { offsetInCU: 0x1A99, offset: 0x1A99, size: 0x8, addend: 0x0, symName: _homeScreenBlur, symObjAddr: 0xEE48, symBinAddr: 0xC320, symSize: 0x0 }
-  - { offsetInCU: 0x1AAE, offset: 0x1AAE, size: 0x8, addend: 0x0, symName: _homeScreenDimView, symObjAddr: 0xEE50, symBinAddr: 0xC328, symSize: 0x0 }
-  - { offsetInCU: 0x1AC3, offset: 0x1AC3, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBackgroundSwitch, symObjAddr: 0xEE58, symBinAddr: 0xC330, symSize: 0x0 }
+  - { offsetInCU: 0x1A6F, offset: 0x1A6F, size: 0x8, addend: 0x0, symName: _homeScreenArtworkBackgroundImageView, symObjAddr: 0xEE60, symBinAddr: 0xC310, symSize: 0x0 }
+  - { offsetInCU: 0x1A84, offset: 0x1A84, size: 0x8, addend: 0x0, symName: _homeScreenBlurView, symObjAddr: 0xEE68, symBinAddr: 0xC318, symSize: 0x0 }
+  - { offsetInCU: 0x1A99, offset: 0x1A99, size: 0x8, addend: 0x0, symName: _homeScreenBlur, symObjAddr: 0xEE70, symBinAddr: 0xC320, symSize: 0x0 }
+  - { offsetInCU: 0x1AAE, offset: 0x1AAE, size: 0x8, addend: 0x0, symName: _homeScreenDimView, symObjAddr: 0xEE78, symBinAddr: 0xC328, symSize: 0x0 }
+  - { offsetInCU: 0x1AC3, offset: 0x1AC3, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBackgroundSwitch, symObjAddr: 0xEE80, symBinAddr: 0xC330, symSize: 0x0 }
   - { offsetInCU: 0x1AD8, offset: 0x1AD8, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBlurMode, symObjAddr: 0x33B8, symBinAddr: 0xC268, symSize: 0x0 }
   - { offsetInCU: 0x1AED, offset: 0x1AED, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBlurAmountValue, symObjAddr: 0x33C0, symBinAddr: 0xC270, symSize: 0x0 }
   - { offsetInCU: 0x1B02, offset: 0x1B02, size: 0x8, addend: 0x0, symName: _controlCenterArtworkOpacityValue, symObjAddr: 0x33C8, symBinAddr: 0xC278, symSize: 0x0 }
   - { offsetInCU: 0x1B17, offset: 0x1B17, size: 0x8, addend: 0x0, symName: _controlCenterArtworkDimValue, symObjAddr: 0x33D0, symBinAddr: 0xC280, symSize: 0x0 }
-  - { offsetInCU: 0x1B2C, offset: 0x1B2C, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE59, symBinAddr: 0xC331, symSize: 0x0 }
-  - { offsetInCU: 0x1B41, offset: 0x1B41, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBackgroundSwitch, symObjAddr: 0xEE5A, symBinAddr: 0xC332, symSize: 0x0 }
+  - { offsetInCU: 0x1B2C, offset: 0x1B2C, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE81, symBinAddr: 0xC331, symSize: 0x0 }
+  - { offsetInCU: 0x1B41, offset: 0x1B41, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBackgroundSwitch, symObjAddr: 0xEE82, symBinAddr: 0xC332, symSize: 0x0 }
   - { offsetInCU: 0x1B56, offset: 0x1B56, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBlurMode, symObjAddr: 0x33D8, symBinAddr: 0xC288, symSize: 0x0 }
   - { offsetInCU: 0x1B6B, offset: 0x1B6B, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBlurAmountValue, symObjAddr: 0x33E0, symBinAddr: 0xC290, symSize: 0x0 }
   - { offsetInCU: 0x1B80, offset: 0x1B80, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkOpacityValue, symObjAddr: 0x33E8, symBinAddr: 0xC298, symSize: 0x0 }
   - { offsetInCU: 0x1B95, offset: 0x1B95, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkDimValue, symObjAddr: 0x33F0, symBinAddr: 0xC2A0, symSize: 0x0 }
-  - { offsetInCU: 0x1BAA, offset: 0x1BAA, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE5B, symBinAddr: 0xC333, symSize: 0x0 }
-  - { offsetInCU: 0x1BBF, offset: 0x1BBF, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBackgroundImageView, symObjAddr: 0xEE60, symBinAddr: 0xC338, symSize: 0x0 }
-  - { offsetInCU: 0x1BD4, offset: 0x1BD4, size: 0x8, addend: 0x0, symName: _controlCenterBlurView, symObjAddr: 0xEE68, symBinAddr: 0xC340, symSize: 0x0 }
-  - { offsetInCU: 0x1BE9, offset: 0x1BE9, size: 0x8, addend: 0x0, symName: _controlCenterBlur, symObjAddr: 0xEE70, symBinAddr: 0xC348, symSize: 0x0 }
-  - { offsetInCU: 0x1BFE, offset: 0x1BFE, size: 0x8, addend: 0x0, symName: _controlCenterDimView, symObjAddr: 0xEE78, symBinAddr: 0xC350, symSize: 0x0 }
-  - { offsetInCU: 0x1C13, offset: 0x1C13, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBackgroundImageView, symObjAddr: 0xEE80, symBinAddr: 0xC358, symSize: 0x0 }
-  - { offsetInCU: 0x1C28, offset: 0x1C28, size: 0x8, addend: 0x0, symName: _controlCenterModuleBlurView, symObjAddr: 0xEE88, symBinAddr: 0xC360, symSize: 0x0 }
-  - { offsetInCU: 0x1C3D, offset: 0x1C3D, size: 0x8, addend: 0x0, symName: _controlCenterModuleBlur, symObjAddr: 0xEE90, symBinAddr: 0xC368, symSize: 0x0 }
-  - { offsetInCU: 0x1C52, offset: 0x1C52, size: 0x8, addend: 0x0, symName: _controlCenterModuleDimView, symObjAddr: 0xEE98, symBinAddr: 0xC370, symSize: 0x0 }
-  - { offsetInCU: 0x1C67, offset: 0x1C67, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x214E, offset: 0x214E, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x21A2, offset: 0x21A2, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x21E4, offset: 0x21E4, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x2226, offset: 0x2226, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x226D, offset: 0x226D, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x229F, offset: 0x229F, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x2320, offset: 0x2320, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x2338, offset: 0x2338, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x237B, offset: 0x237B, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
-  - { offsetInCU: 0x23C3, offset: 0x23C3, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEA0, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x1BAA, offset: 0x1BAA, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBackgroundTransitionSwitch, symObjAddr: 0xEE83, symBinAddr: 0xC333, symSize: 0x0 }
+  - { offsetInCU: 0x1BBF, offset: 0x1BBF, size: 0x8, addend: 0x0, symName: _controlCenterArtworkBackgroundImageView, symObjAddr: 0xEE88, symBinAddr: 0xC338, symSize: 0x0 }
+  - { offsetInCU: 0x1BD4, offset: 0x1BD4, size: 0x8, addend: 0x0, symName: _controlCenterBlurView, symObjAddr: 0xEE90, symBinAddr: 0xC340, symSize: 0x0 }
+  - { offsetInCU: 0x1BE9, offset: 0x1BE9, size: 0x8, addend: 0x0, symName: _controlCenterBlur, symObjAddr: 0xEE98, symBinAddr: 0xC348, symSize: 0x0 }
+  - { offsetInCU: 0x1BFE, offset: 0x1BFE, size: 0x8, addend: 0x0, symName: _controlCenterDimView, symObjAddr: 0xEEA0, symBinAddr: 0xC350, symSize: 0x0 }
+  - { offsetInCU: 0x1C13, offset: 0x1C13, size: 0x8, addend: 0x0, symName: _controlCenterModuleArtworkBackgroundImageView, symObjAddr: 0xEEA8, symBinAddr: 0xC358, symSize: 0x0 }
+  - { offsetInCU: 0x1C28, offset: 0x1C28, size: 0x8, addend: 0x0, symName: _controlCenterModuleBlurView, symObjAddr: 0xEEB0, symBinAddr: 0xC360, symSize: 0x0 }
+  - { offsetInCU: 0x1C3D, offset: 0x1C3D, size: 0x8, addend: 0x0, symName: _controlCenterModuleBlur, symObjAddr: 0xEEB8, symBinAddr: 0xC368, symSize: 0x0 }
+  - { offsetInCU: 0x1C52, offset: 0x1C52, size: 0x8, addend: 0x0, symName: _controlCenterModuleDimView, symObjAddr: 0xEEC0, symBinAddr: 0xC370, symSize: 0x0 }
+  - { offsetInCU: 0x1C67, offset: 0x1C67, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x214E, offset: 0x214E, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x21A2, offset: 0x21A2, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x21E4, offset: 0x21E4, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x2226, offset: 0x2226, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x226D, offset: 0x226D, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x229F, offset: 0x229F, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x2320, offset: 0x2320, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x2338, offset: 0x2338, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x237B, offset: 0x237B, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
+  - { offsetInCU: 0x23C3, offset: 0x23C3, size: 0x8, addend: 0x0, symName: __MergedGlobals, symObjAddr: 0xEEC8, symBinAddr: 0xC378, symSize: 0x0 }
   - { offsetInCU: 0x23FA, offset: 0x23FA, size: 0x8, addend: 0x0, symName: __logosLocalCtor_d9030d1b, symObjAddr: 0x0, symBinAddr: 0x4CC0, symSize: 0x7D8 }
   - { offsetInCU: 0x26CF, offset: 0x26CF, size: 0x8, addend: 0x0, symName: '__logos_method$VioletLockScreenBackground$CSCoverSheetViewController$viewDidLoad', symObjAddr: 0x7D8, symBinAddr: 0x5498, symSize: 0x37C }
   - { offsetInCU: 0x271D, offset: 0x271D, size: 0x8, addend: 0x0, symName: '__logos_method$VioletLockScreenPlayer$MRUNowPlayingViewController$viewDidAppear$', symObjAddr: 0xB54, symBinAddr: 0x5814, symSize: 0x63C }
