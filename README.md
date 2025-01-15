@@ -9,7 +9,7 @@ Show the artwork of your current playing song on more areas than just the music 
 2. Install Violet
 
 ## Compatibility
-iPhone, iPad and iPod running iOS/iPadOS 14 or later
+iPhone, iPad and iPod running iOS/iPadOS 15 Rootless
 
 ## Compiling
   - [Theos](https://theos.dev/) is required to compile the project
