@@ -5,7 +5,7 @@ Show the artwork of your current playing song on more areas than just the music 
 <img src="Preview.png">
 
 ## Installation
-1. Add this repository to your package manager: `TBD`
+1. Add this repository to your package manager: https://zsaaiq.github.io/jailbreakrepo/
 2. Install Violet
 
 ## Compatibility
